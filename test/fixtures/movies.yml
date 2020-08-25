@@ -1,15 +1,9 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  year: 1
-  poster: MyString
-  description: MyString
+  title: "You Don't Mess with the Zohan"
+  year: 2008
+  poster: "https://m.media-amazon.com/images/M/MV5BMzE2MzEzNDc5M15BMl5BanBnXkFtZTcwMzYxOTA3MQ@@._V1_SX300.jpg"
+  description: "An Israeli Special Forces Soldier fakes his death so he can re-emerge in New York City as a hair stylist."
   genre_id: 1
 
-two:
-  title: MyString
-  year: 1
-  poster: MyString
-  description: MyString
-  genre_id: 1
